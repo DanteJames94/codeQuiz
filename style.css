@@ -1,0 +1,29 @@
+.codeQuiz {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  font-size: larger;
+}
+
+.container {
+  border-style: dashed;
+  background: lightgray;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.hide {
+  display: none;
+}
+
+#questions {
+  text-align: center;
+}
+
+#answerButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
